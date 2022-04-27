@@ -1,0 +1,4 @@
+python=3.7
+conda intsall tenserflow=1.15 twnserflow=gpu=1.15
+conda install stable-baselines gym-anytrading gym
+conda install finta
